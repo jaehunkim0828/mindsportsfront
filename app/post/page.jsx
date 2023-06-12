@@ -76,12 +76,6 @@ export default function PostPage() {
         >
           Create a Post
         </button>
-        <Pagination
-          style={{ width: "100%", display: "flex", justifyContent: "center" }}
-          count={4}
-          color="primary"
-          onChange={(event, value) => console.log(value)}
-        />
       </section>
     </div>
   );
