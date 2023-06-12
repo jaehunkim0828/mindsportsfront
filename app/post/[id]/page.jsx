@@ -25,7 +25,7 @@ export default function TodayPage({ params: { id } }) {
     if (check) {
       return window.alert("이미 추천 되었습니다.");
     }
-    await axios.put(`http://localhost:5000/post/id?id=${id}`, {
+    await axios.put(`${process.env.NEXT_PUBLIC_URL}/post/id?id=${id}`, {
       recommend,
       deprecated,
     });
@@ -54,7 +54,7 @@ export default function TodayPage({ params: { id } }) {
     }
 
     const result = await axios
-      .post("http://localhost:5000/comment", {
+      .post(`${process.env.NEXT_PUBLIC_URL}/comment`, {
         id,
         nick: form.nick,
         content: form.content,
@@ -66,7 +66,7 @@ export default function TodayPage({ params: { id } }) {
   useEffect(() => {
     (async () => {
       const result = await axios
-        .get(`http://localhost:5000/post/id?id=${id}`)
+        .get(`${process.env.NEXT_PUBLIC_URL}/post/id?id=${id}`)
         .then(raw => raw.data);
       setPost(result.data);
       setCommend({
@@ -74,12 +74,12 @@ export default function TodayPage({ params: { id } }) {
         down: result.data.deprecated,
       });
       const result2 = await axios
-        .get(`http://localhost:5000/comment/postId?id=${id}`)
+        .get(`${process.env.NEXT_PUBLIC_URL}/comment/postId?id=${id}`)
         .then(raw => raw.data);
       setComment(result2.data);
 
       await axios
-        .put(`http://localhost:5000/post/id?id=${id}`, {
+        .put(`${process.env.NEXT_PUBLIC_URL}/post/id?id=${id}`, {
           view: result.data.view + 1,
         })
         .then(_ => setView(result.data.view + 1));
@@ -91,7 +91,10 @@ export default function TodayPage({ params: { id } }) {
       <div className={style.postWrapper}>
         <div className={style.title}>
           {post.img && (
-            <img src={`http://localhost:5000/${post.img}.png`} alt="smile" />
+            <img
+              src={`${process.env.NEXT_PUBLIC_URL}/${post.img}.png`}
+              alt="smile"
+            />
           )}
           <div className={style.info}>{post.title}</div>
           <div className={style.sub}>

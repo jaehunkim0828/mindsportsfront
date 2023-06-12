@@ -17,7 +17,7 @@ export default function PostPage() {
   useEffect(() => {
     (async () => {
       const result = await axios.get(
-        `http://localhost:5000/post?type=${filter}`
+        `${process.env.NEXT_PUBLIC_URL}/post?type=${filter}`
       );
       setPostList(result.data.data);
     })();
@@ -25,7 +25,9 @@ export default function PostPage() {
 
   useEffect(() => {
     (async () => {
-      const result = await axios.get(`http://localhost:5000/post?type=new`);
+      const result = await axios.get(
+        `${process.env.NEXT_PUBLIC_URL}/post?type=new`
+      );
       setPostList(result.data.data);
     })();
   }, []);

@@ -25,7 +25,7 @@ export default function WritePage() {
     }
 
     try {
-      await axios.post("http://localhost:5000/post", form);
+      await axios.post(`${process.env.NEXT_PUBLIC_URL}/post`, form);
       router.push("/post");
     } catch (err) {
       window.alert(err);
