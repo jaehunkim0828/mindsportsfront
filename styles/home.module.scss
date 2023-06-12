@@ -1,0 +1,158 @@
+.home {
+  color: #fff1dc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info {
+  width: 100%;
+  background-color: #3a98b3;
+  padding: 50px 100px;
+  display: flex;
+  justify-content: center;
+
+  .infoWrapper {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+
+    .left {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  }
+
+  h1 {
+    margin: 0;
+  }
+  p {
+    margin: 10px 0 30px 0;
+    font-size: 12px;
+  }
+
+  button {
+    border-radius: 100px;
+    padding: 10px 20px;
+    border: none;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    width: 120px;
+  }
+}
+
+.sub {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: #d9d9d9;
+  color: #3a98b3;
+
+  h1 {
+    margin: 0 0 10px 0;
+  }
+
+  span {
+    color: #a9a9a9;
+  }
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.article {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 1000px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  height: 250px;
+  .img {
+    flex: 1;
+    background-image: url("/home1.png");
+  }
+  .img2 {
+    flex: 1;
+    background-image: url("/home2.png");
+  }
+  .img3 {
+    flex: 1;
+    background-image: url("/home3.jpeg");
+  }
+  .img4 {
+    flex: 1;
+    background-image: url("/home4.jpeg");
+  }
+  .img5 {
+    flex: 1;
+    background-image: url("/home5.jpeg");
+  }
+  .img6 {
+    flex: 1;
+    background-image: url("/home6.jpeg");
+  }
+}
+
+.content {
+  flex: 1;
+  padding: 30px 0;
+  background-color: #eeeeee;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .inner {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.cardList {
+  width: 90%;
+  max-width: 1000px;
+  margin: 50px 0;
+
+  display: flex;
+  gap: 20px;
+
+  .card {
+    width: 25%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: #d9d9d9;
+
+    .text {
+      flex: 1;
+      text-align: center;
+      text-decoration: none;
+      font-size: 14px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
