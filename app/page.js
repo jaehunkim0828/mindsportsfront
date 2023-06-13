@@ -7,22 +7,22 @@ const cards = [
   {
     text: "Olympian David Lee gets candid about what he loves about India and more...",
     url: "https://www.telegraphindia.com/my-kolkata/lifestyle/volleyball-champion-david-lee-engages-in-a-candid-chat-on-the-sidelines-of-prime-volleyball-league/cid/1851307",
-    img: "/article1.png",
+    img: "/home3.jpeg",
   },
   {
     text: "Pass, Set, Spike! Here's What You Need to Know About Sitting Volleyball at the Paralympics",
     url: "https://www.popsugar.com/fitness/sitting-volleyball-rules-48474419",
-    img: "/article2.png",
+    img: "/home4.jpeg",
   },
   {
     text: "Sports Psychology and Simple Tools to Improve Performance in Volleyball",
     url: "http://www.volleyballadvisors.com/sports-psychology.html",
-    img: "/article3.png",
+    img: "/home5.jpeg",
   },
   {
     text: "The Mental Game Of Volleyball Winners Have Calm, Focused Mental Toughness",
     url: "https://www.sportspsychologycoaching.com/articles/TheMentalGameOfVolleyball.html",
-    img: "/article4.png",
+    img: "/home6.jpeg",
   },
 ];
 
@@ -115,7 +115,7 @@ export default function Home() {
             <div className={style.content}>
               <div className={style.inner}>
                 <p style={{ fontWeight: "700" }}>
-                  {`VOLLEYBALL IS 20 PERCENT ATHLETICNESS AND 80 80 PERCENT MENTAL.`}
+                  {`VOLLEYBALL IS 20 PERCENT ATHLETICNESS AND 80 PERCENT MENTAL.`}
                 </p>
               </div>
             </div>

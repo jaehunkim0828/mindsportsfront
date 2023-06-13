@@ -61,7 +61,7 @@ export default function PostPage() {
               key={`post:${i}`}
             >
               <div className={style.first}>
-                <div>{ele.id}</div>
+                <div>{i + 1}</div>
                 <div>{ele.title}</div>
               </div>
               <div className={style.last}>

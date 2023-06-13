@@ -96,19 +96,23 @@
   }
   .img3 {
     flex: 1;
-    background-image: url("/home3.jpeg");
+    background-image: url("/article1.png");
+    background-size: 100%;
   }
   .img4 {
     flex: 1;
-    background-image: url("/home4.jpeg");
+    background-image: url("/article2.png");
+    background-size: 150%;
   }
   .img5 {
     flex: 1;
-    background-image: url("/home5.jpeg");
+    background-image: url("/article3.png");
+    background-size: 100%;
   }
   .img6 {
     flex: 1;
-    background-image: url("/home6.jpeg");
+    background-image: url("/article4.png");
+    background-size: 100%;
   }
 }
 

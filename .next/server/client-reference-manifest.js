@@ -1,1 +1,1052 @@
-self.__RSC_MANIFEST={"ssrModuleMapping":{"1010":{"*":{"id":"7844","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"7844","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"7844","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"1442":{"*":{"id":"9190","name":"*","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false},"":{"id":"9190","name":"","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false},"default":{"id":"9190","name":"default","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false}},"1785":{"*":{"id":"606","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"606","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"606","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"RedirectErrorBoundary":{"id":"606","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"RedirectBoundary":{"id":"606","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"3947":{"*":{"id":"3548","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false},"":{"id":"3548","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false},"default":{"id":"3548","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false}},"4143":{"*":{"id":"3100","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"3100","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"3100","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"4463":{"*":{"id":"6249","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"6249","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"6249","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"4475":{"*":{"id":"6703","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false},"":{"id":"6703","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false},"default":{"id":"6703","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false}},"4874":{"*":{"id":"3658","name":"*","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false},"":{"id":"3658","name":"","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false},"default":{"id":"3658","name":"default","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false}},"5594":{"*":{"id":"6814","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false},"":{"id":"6814","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false},"default":{"id":"6814","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false}},"6828":{"*":{"id":"969","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"969","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"969","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"8827":{"*":{"id":"125","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"125","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"125","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"getServerActionDispatcher":{"id":"125","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"urlToUrlWithoutFlightMarker":{"id":"125","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}},"9126":{"*":{"id":"1522","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"":{"id":"1522","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"default":{"id":"1522","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"ErrorBoundaryHandler":{"id":"1522","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"ErrorBoundary":{"id":"1522","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false}}},"edgeSSRModuleMapping":{},"cssFiles":{"/Users/kimjaehun/Documents/rest/bock/front/app/layout":["static/css/3ad4627c79c70b4d.css"],"/Users/kimjaehun/Documents/rest/bock/front/app/page":["static/css/8c30e8bdb83c2561.css"],"/Users/kimjaehun/Documents/rest/bock/front/app/post/page":["static/css/296c4404e39ba810.css"],"/Users/kimjaehun/Documents/rest/bock/front/app/write/page":["static/css/5c29e081cf5c13e8.css"],"/Users/kimjaehun/Documents/rest/bock/front/app/post/[id]/page":["static/css/332ff73f66ab4c40.css"]},"clientModules":{"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-657c826272498785.js","667:static/chunks/2443530c-cac3e7a072d599d8.js","488:static/chunks/488-d198fb987f68328a.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/globals.css#":{"id":"null","name":"default","chunks":["static/css/3ad4627c79c70b4d.css"]},"/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#":{"id":"null","name":"default","chunks":["static/css/3ad4627c79c70b4d.css"]},"/Users/kimjaehun/Documents/rest/bock/front/components/footer.module.scss#":{"id":"null","name":"default","chunks":["static/css/3ad4627c79c70b4d.css"]},"/Users/kimjaehun/Documents/rest/bock/front/components/header.module.scss#":{"id":"null","name":"default","chunks":["static/css/3ad4627c79c70b4d.css"]},"/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx":{"id":"1442","name":"*","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx#":{"id":"1442","name":"","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx#default":{"id":"1442","name":"default","chunks":["185:static/chunks/app/layout-28040fa519a359f4.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/styles/home.module.scss#":{"id":"null","name":"default","chunks":["static/css/8c30e8bdb83c2561.css"]},"/Users/kimjaehun/Documents/rest/bock/front/app/page.js":{"id":"4874","name":"*","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/page.js#":{"id":"4874","name":"","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/page.js#default":{"id":"4874","name":"default","chunks":["931:static/chunks/app/page-0bc8959c869fa431.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/post.module.scss#":{"id":"null","name":"default","chunks":["static/css/296c4404e39ba810.css"]},"/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx":{"id":"3947","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx#":{"id":"3947","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx#default":{"id":"3947","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","297:static/chunks/app/post/page-a753001c49cce881.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/write/write.module.scss#":{"id":"null","name":"default","chunks":["static/css/5c29e081cf5c13e8.css"]},"/Users/kimjaehun/Documents/rest/bock/front/app/write/page.jsx":{"id":"4475","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/write/page.jsx#":{"id":"4475","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/write/page.jsx#default":{"id":"4475","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","79:static/chunks/app/write/page-6a5bb667d21aa924.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/[id]/page.module.scss#":{"id":"null","name":"default","chunks":["static/css/332ff73f66ab4c40.css"]},"/Users/kimjaehun/Documents/rest/bock/front/app/post/[id]/page.jsx":{"id":"5594","name":"*","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/[id]/page.jsx#":{"id":"5594","name":"","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false},"/Users/kimjaehun/Documents/rest/bock/front/app/post/[id]/page.jsx#default":{"id":"5594","name":"default","chunks":["348:static/chunks/348-d2f228c5503120e5.js","246:static/chunks/app/post/[id]/page-b38e96ae2ad28444.js"],"async":false}}}
+self.__RSC_MANIFEST={
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "getServerActionDispatcher": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "getServerActionDispatcher",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/header.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/header.jsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/header.jsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/header.jsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/post/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/post/page.jsx",
+        "name": "*",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/post/page.jsx",
+        "name": "",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/post/page.jsx",
+        "name": "default",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "cssFiles": {
+    "/Users/kimjaehun/Documents/rest/bock/front/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/kimjaehun/Documents/rest/bock/front/app/post/page": [
+      "static/css/app/post/page.css"
+    ]
+  },
+  "clientModules": {
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/components/footer.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/components/header.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx": {
+      "id": "(app-client)/./components/header.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx#": {
+      "id": "(app-client)/./components/header.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/components/header.jsx#default": {
+      "id": "(app-client)/./components/header.jsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/app/post/post.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/post/page.css"
+      ]
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx": {
+      "id": "(app-client)/./app/post/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx#": {
+      "id": "(app-client)/./app/post/page.jsx",
+      "name": "",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/kimjaehun/Documents/rest/bock/front/app/post/page.jsx#default": {
+      "id": "(app-client)/./app/post/page.jsx",
+      "name": "default",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    }
+  }
+}
