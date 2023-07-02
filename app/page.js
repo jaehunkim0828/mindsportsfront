@@ -104,7 +104,7 @@ export default function Home() {
             <div className={style.content}>
               <div className={style.inner}>
                 <p style={{ fontWeight: "700" }}>
-                  {`GOOD PLAYERS INSPIRE THE MESLVES GREAT PLAYERS INSPIRE OTHERS.`}
+                  {`GOOD PLAYERS INSPIRE THEMESLVES GREAT PLAYERS INSPIRE OTHERS.`}
                 </p>
               </div>
             </div>
